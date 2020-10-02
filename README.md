@@ -6,12 +6,12 @@ Short and easy text version of Minesweeper game in Kotlin.
 Description:
 After start> 
 How many mines do you want on the field? > 10
- |123456789|\n
--|---------|\n
-1|.........|\n
-2|.........|\n
-3|.........|\n
-4|.........|\n
+ |123456789|
+-|---------|
+1|.........|
+2|.........|
+3|.........|
+4|.........|
 5|.........|
 6|.........|
 7|.........|
