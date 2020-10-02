@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/Swap elements/out/
+/Problems/Swap elements/out/production/classes/
+/Problems/The countdown/out/
+/Problems/The countdown/out/production/classes/
+/Problems/The eternal truth/out/
+/Problems/The eternal truth/out/production/classes/
+/Problems/The information about a person/out/
+/Problems/The information about a person/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The rainbow order/out/
+/Problems/The rainbow order/out/production/classes/
+/Problems/Very Big Number/out/
+/Problems/Very Big Number/out/production/classes/
+/Problems/Volume of a cube/out/
+/Problems/Volume of a cube/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/
+/Problems/Within both ranges/out/
+/Problems/Within both ranges/out/production/classes/

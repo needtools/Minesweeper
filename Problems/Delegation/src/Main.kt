@@ -1,0 +1,1 @@
+fun next(prev: Int): Int
